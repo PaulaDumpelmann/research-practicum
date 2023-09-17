@@ -1,0 +1,76 @@
+---
+title: "Memorandum of Understanding - Team 1 "
+author: "Paula Dumpelmann, Ludwig Schulze, Martín Alberdi, and Dirck de Kleer"
+date: "2023-09-17"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Overview 
+
+This memorandum of understanding describes the shared expectations between Paula Dumpelmann, Ludwig Schulze, Martín Alberdi, and Dirck de Kleer (hereafter ``the team").
+
+The shared goal of the team is to use the Ferroni-Fisman-Golden three-country corruption survey data to answer. The final output will consist - at least - of the following: formally presented results of our research project, a codebook, and a policy brief.    
+
+
+The team agrees to the following:
+
+* Before April 04th, the team will examine the Ferroni-Fisman-Golden survey data
+provided by Professor Golden and write a PAP designed to answer our research question. The PAP Will include a Data Management Plan, which the team will prepare via
+DMPonline.
+
+* Before May 16th, 2024 the team will write a first draft
+of the project reporting first analyie, based on the PAP submitted earlier. The draft should be as complete as necessary to submit to a journal for review as a Registered Report. 
+
+*  Before June 06th, 2024 the team will write up final
+results of our project in a professional format, prepare replication code, prepare a codebook, and write a policy brief to publicize results to a lay audience. 
+
+* The team will work until June 06, 2024, when the final assignment is due. All work will be divided equally among members of the team, unless otherwise agreed. Individual contributions of each stage in the research process will be elaborated in accompanying documentation of the final assignment. 
+
+* Upon completion of the final assignment, authorship will be attributed to Alberdi, De Kleer, Dumpelmann, and Schulze, with names being listed in alphabetical order. The alphabetical ordering of authorship will be clearly noted in accompanying documentation of the final assignment.
+
+* The team will ask Professor Miriam Golden's permission to make Ferroni-Fisman-Golden data publicly available as part of the replication files for the final project. Permission must also first be sought with Professor Miriam Golden before (re)-using the Ferroni-Fisman-Golden data for subsequent projects.
+
+
+## 
+
+\newpage 
+
+## Signatures
+
+Signatories below confirm agreement with this *SOU* by signing and dating this document below.
+
+Paula Dumpelmann
+
+\vspace{1cm}
+
+................
+
+Ludwig Schulze
+
+\vspace{1cm}
+
+................
+
+Martín Alberdi
+
+\vspace{1cm}
+
+................
+
+
+Dirck de Kleer 
+
+\vspace{1cm}
+
+................
+
+
+
+
+
+
+## 
