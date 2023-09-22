@@ -1,0 +1,54 @@
+---
+title: 'Redistributive preferences: Does perceived corruption matter?'
+subtitle: Martin Alberdi, Dirck de Kleer, Paula Dümpelmann and Ludwig Schulze
+date: "2023-09-21"
+output:pdf_document: default
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+### Prelimiary Research Question
+
+Does perceived corruption moderate individual predispositions to support or 
+oppose redistribution? If yes, how? Using a novel survey data set gathered by 
+Ferroni, Fisman and Golden, our research aims to untangle whether perceptions of 
+corruption either weaken or strengthen the rationale for redistribution based on 
+material and religious considerations. 
+
+To address these aims, we pose two key research questions:
+
+*1.	How do perceptions of corruption moderate the relationship between religiosity 
+and redistributive preferences?*
+
+We anticipate that, in line with the social underpinnings of Catholic doctrine, 
+religious practitioners will be more inclined to support redistribution. 
+Furthermore, we posit that (1) religious practitioners will express support for 
+redistribution irrespective of their perceptions of corruption, driven by the 
+moral aspect of religious practice.
+
+Conversely, individuals who advocate for the inclusion of religion in politics 
+are more likely to  exhibit tolerance for corruption and oppose redistribution. 
+If the integration of religion into politics aligns with the pursuit of personal 
+interests through public means, (2) these individuals are likely to normalize 
+corruption and shy away from preferences that promote the welfare of "impersonal" 
+others, such as redistribution.
+
+*2.	How do perceptions of corruption moderate the relationship between income 
+and redistributive preferences?*
+
+Individuals hailing from lower-income backgrounds often face greater exposure 
+to social risks suggesting that they have more to gain from redistributive 
+policies. Consequently, one might expect them to be more inclined to support such 
+policies. 
+
+However, the effect of perceived corruption on this relationship could go in two 
+distinct directions: On one hand, perceived corruption might erode trust in the 
+efficiency and transparency of public institutions, (3) potentially leading to 
+decreased support for redistribution. Conversely, perceived corruption could 
+increase their concerns about relative wealth decline, (4) thereby increasing 
+support for redistribution. 
+
